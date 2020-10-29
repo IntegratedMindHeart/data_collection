@@ -1,0 +1,87 @@
+,Opening,Opening.1,Title,Director,Cast,Genre
+0,JAN,4.0,Humne Jeena Seekh Liya,Milind Ukey,"Siddharth Chandekar, Mrunmayi Deshpande",Comedy
+1,JAN,4.0,Rama Rama Kya Hai Dramaa?,S. Chandrakaant,"Rajpal Yadav, Neha Dhupia, Aashish Chaudhary, Amrita Arora, Anupam Kher, Rati Agnihotri, Alan Kapoor",Comedy
+2,JAN,11.0,Halla Bol,Rajkumar Santoshi,"Ajay Devgn, Vidya Balan, Pankaj Kapoor",Social
+3,JAN,18.0,Bombay to Bangkok,Nagesh Kukunoor,"Shreyas Talpade, Lena Christensen","Comedy, Drama, Romance"
+4,JAN,18.0,Tulsi,Ajay Kumar,"Irrfan Khan, Manisha Koirala, Arzoo Govitrikar",
+5,JAN,25.0,Sunday,Rohit Shetty,"Ajay Devgn, Ayesha Takia, Arshad Warsi, Irrfan Khan, Anjana Sukhani","Action, Comedy"
+6,FEB,8.0,Superstar,Rohit Jugraj,"Kunal Khemu, Tulip Joshi, Aushima Sawhney, Reema Lagoo, Sharat Saxena",Drama
+7,FEB,15.0,Jodhaa Akbar,Ashutosh Gowariker,"Hrithik Roshan, Aishwarya Rai Bachchan, Sonu Sood, Ila Arun","History, Romance"
+8,MAR,7.0,Black & White,Subhash Ghai,"Anil Kapoor, Anurag Sinha, Shefali Chhaya, Aditi Sharma, Anurag Singh","Social, Drama, History"
+9,MAR,21.0,Race,Abbas Mustan,"Saif Ali Khan, Akshaye Khanna, Katrina Kaif, Bipasha Basu, Anil Kapoor, Sameera Reddy","Crime, Thriller"
+10,MAR,28.0,One Two Three,Ashwani Dheer,"Tusshar Kapoor, Paresh Rawal, Suniel Shetty, Esha Deol, Sameera Reddy, Upen Patel, Neetu Chandra, Tanisha","Comedy, Drama"
+11,APR,4.0,Shaurya,Samar Khan,"Rahul Bose, Minissha Lamba, Javed Jaffrey, Kay Kay Menon, Amrita Rao",Drama
+12,APR,11.0,Krazzy 4,Jaideep Sen,"Juhi Chawla, Arshad Warsi, Irrfan Khan, Suresh Menon, Rajpal Yadav, Dia Mirza",Comedy
+13,APR,11.0,U Me Aur Hum,Ajay Devgn,"Ajay Devgn, Kajol, Karan Khanna, Isha Sharvani, Sumeet Raghavan, Divya Dutta",Romance
+14,APR,11.0,Pehli Nazar Ka Pyaar,Arshad Khan,"Arbaaz Ali Khan, Vikas Anand, Rahul, Dinesh Hingoo, Tej Sapru",Romance
+15,APR,25.0,Sirf,Rajaatesh Nayar,"Kay Kay Menon, Manisha Koirala, Ranvir Shorey, Sonali Kulkarni","Drama, Romance"
+16,APR,25.0,Tashan,Vijay Krishna Acharya,"Anil Kapoor, Akshay Kumar, Saif Ali Khan, Kareena Kapoor","action, Romance"
+17,MAY,2.0,Mr. Black Mr. White,Deepak Shivdasani,"Sunil Shetty, Arshad Warsi",Comedy
+18,MAY,2.0,Anamika,Anant Mahadevan,"Dino Morea, Minissha Lamba, Koena Mitra, Aarti Chabria, Gulshan Grover",Thriller
+19,MAY,9.0,Jimmy,Raj N. Sippy,"Mimoh Chakraborty, Rati Agnihotri, Vikas Anand","Drama, action, Crime, Thriller, Romance"
+20,MAY,9.0,Bhoothnath,Vivek Sharma,"Amitabh Bachchan, Juhi Chawla, Shahrukh Khan, Aman Siddiqui, Priyanshu Chatterjee, Rajpal Yadav, Satish Shah, Aashish Chaudhary, Nauheed Cyrusi","Comedy, Drama, Fantasy"
+21,MAY,16.0,Jannat,Kunal Deshmukh,"Emraan Hashmi, Sonal Chauhan, Sameer Kochhar, Javed Shaikh","Drama, Romance"
+22,MAY,23.0,Don Muthu Swami,Ashim Samanta,"Hrishita Bhatt, Mithun Chakraborty, Shakti Kapoor, Rohit Roy",Comedy
+23,MAY,23.0,Ghatothkach,Singeetam Srinivasa Rao,,Fantasy
+24,MAY,30.0,Woodstock Villa,Hansal Mehta,"Sikandar Kher, Neha Oberoi Arbaaz Khan, Shakti Kapoor, Gulshan Grover, Sachin Khedekar, Boman Irani, Anupama Verma",Thriller
+25,JUN,6.0,Aamir,Rajkumar Gupta,Rajeev Khandelwal,"Drama, Thriller"
+26,JUN,6.0,Sarkar Raj,Ram Gopal Verma,"Amitabh Bachchan, Abhishek Bachchan, Aishwarya Rai Bachchan, Supriya Pathak, Tanisha Mukherjee, Ravi Kale","action, Crime, Drama, Thriller"
+27,JUN,13.0,Mere Baap Pehle Aap,Priyadarshan,"Akshaye Khanna, Paresh Rawal, Genelia D'Souza, Arzoo Govitrikar, Om Puri, Rajpal Yadav",Comedy
+28,JUN,13.0,Summer 2007,Suhail Tatari,"Sikandar Kher, Gul Panag, Neetu Chandra, Susan Brar, Uvika Choudhary",
+29,JUN,20.0,De Taali,E. Nivas,"Riteish Deshmukh, Aftab Shivdasani, Ayesha Takia, Rimi Sen, Neha Dhupia","Comedy, Romance"
+30,JUN,20.0,Haal-e-Dil,Anil Devgan,"Amita Pathak, Nakuul Mehta, Adhyayan Suman","Drama, Romance"
+31,JUN,27.0,Thoda Pyaar Thoda Magic,Kunal Kohli,"Saif Ali Khan, Rani Mukherji, Amisha Patel, Rishi Kapoor","Drama, Romance, Fantasy"
+32,JUN,27.0,Thodi Life Thoda Magic,Vinayak Rajesh,"Jackie Shroff, Parmeet Sethi, Paresh Rawal, Arbaaz Khan",Drama
+33,JUN,27.0,Via Darjeeling,Arindam Nandy,"Kay Kay Menon, Sonali Kulkarni, Vinay Pathak, Sandhya Mridul, Rajat Kapoor","Drama, Mystery, Thriller"
+34,JUL,4.0,Jaane Tu... Ya Jaane Na,Abbas Tyrewala,"Imran Khan, Genelia D'Souza, Manjari Phadnis, Ayaz Khan, Paresh Rawal",Romance
+35,JUL,4.0,Love Story 2050,Harry Baweja,"Priyanka Chopra, Harman Baweja, Boman Irani","Drama, Musical, Romance"
+36,JUL,11.0,Mehbooba,Afzal Khan,"Manisha Koirala, Ajay Devgn, Sanjay Dutt",Romance
+37,JUL,18.0,Kismat Konnection,Aziz Mirza,"Shahid Kapoor, Vidya Balan, Juhi Chawla, Boman Irani, Om Puri","Comedy, Drama, Romance"
+38,JUL,18.0,Contract,Ram Gopal Varma,"Adhvik Mahajan, Sakshi Gulati, Kishor Kadam, Sumeet Nijhawan","Thriler, Spy"
+39,JUL,25.0,Mission Istaanbul,Apoorva Lakhia,"Vivek Oberoi, Shriya Saran, Sunil Shetty, Zayed Khan",Adventure
+40,JUL,25.0,Money Hai Toh Honey Hai,Ganesh Acharya,"Govinda, Aftab Shivdasani, Upen Patel, Manoj Bajpai, Hansika Motwani, Celina Jaitly, Kim Sharma, Priyanka Sharma","Comedy, Drama, Romance"
+41,AUG,1.0,Ugly Aur Pagli,Sachin Khot,"Ranvir Shorey, Mallika Sherawat",Comedy
+42,AUG,8.0,Good Luck!,"Karan Sharma, Joginder Sharma","Aryeman, Sayali Bhagat, Ranvir Shorey, Lucky Ali, Archana Puran Singh, Mushtaq Khan, Nazneen Patel",
+43,AUG,8.0,Singh Is Kinng,Anees Bazmee,"Akshay Kumar, Katrina Kaif, Om Puri, Neha Dhupia, Javed Jaffrey, Kiron Kher, Ranvir Shorey","action, Comedy, Crime, Romance"
+44,AUG,15.0,Bachna Ae Haseeno,Siddharth Anand,"Ranbir Kapoor, Bipasha Basu, Minissha Lamba, Deepika Padukone, Kunal Kapoor","Comedy, Drama, Romance"
+45,AUG,15.0,God Tussi Great Ho,Rumi Jaffery,"Sohail Khan, Salman Khan, Priyanka Chopra, Amitabh Bachchan","Comedy, Romance"
+46,AUG,22.0,Phoonk,Ram Gopal Varma,"Amruta Khanvilkar, Ahsaas Channa, Kenny Desai, Ashwini Kalsekar",Horror
+47,AUG,22.0,Mumbai Meri Jaan,Nishikanth Kamath,"Kay Kay Menon, Soha Ali Khan, Paresh Rawal, R. Madhavan",
+48,AUG,22.0,Maan Gaye Mughal-e-Azam,Sanjay Chhel,"Rahul Bose, Mallika Sherawat",Comedy
+49,AUG,29.0,Rock On!!,Abhishek Kapoor,"Arjun Rampal, Farhan Akhtar, Prachi Desai, Luke Kenny, Purab Kohli, Koel Purie, Shahana Goswami, Nicolette Bird","Drama, Romance, Musical"
+50,AUG,29.0,C Kkompany,Sachin Yardi,"Tusshar Kapoor, Raima Sen, Rajpal Yadav, Anupam Kher,",Comedy
+51,AUG,29.0,Chamku,Kabeer Kaushik,"Priyanka Chopra, Bobby Deol, Danny Denzongpa, Irrfan Khan, Riteish Deshmukh, Rajpal Yadav","Musical, Romance, Thriller"
+52,AUG,29.0,Mukhbiir,Mani Shankar,"Jackie Shroff, Om Puri, Sunil Shetty, Rahul Dev, Sameer Dattani, Raima Sen, Sushant Singh",Thriller
+53,SEP,5.0,A Wednesday!,Neeraj Pandey,"Naseeruddin Shah, Anupam Kher, Jimmy Sheirgill","Drama, Thriller"
+54,SEP,5.0,Tahaan,Santosh Sivan,"Rahul Bose, Sarika, Rahul Khanna, Anupam Kher","Adventure, Drama"
+55,SEP,12.0,1920,Vikram Bhatt,"Rajneesh Duggal, Adah Sharma","Horror, Mystery, Romance, Thriller"
+56,SEP,12.0,The Last Lear,Rituparno Ghosh,"Amitabh Bachchan, Preity Zinta, Arjun Rampal, Divya Dutta, Shefali Shah, Jisshu Sengupta","Biography, Drama"
+57,SEP,19.0,Welcome to Sajjanpur,Shyam Benegal,"Shreyas Talpade, Amrita Rao","Comedy, Drama"
+58,SEP,19.0,Saas Bahu Aur Sensex,Shona Urvashi,"Tanushree Dutta, Ankur Khanna, Kiron Kher, Farooq Sheikh",Comedy
+59,SEP,26.0,Hari Puttar: A Comedy of Terrors,"Lucky Kohli, Rajesh Bajaj","Sarika, Zain Khan, Sweeny Khara, Saurabh Shukla, Vijay Raaz, Jackie Shroff, Lilette Dubey",Comedy
+60,OCT,2.0,Kidnap,Sanjay Gadhvi,"Sanjay Dutt, Imran Khan, Minissha Lamba, Vidya Malvade, Rahul Dev","Crime, Thriller"
+61,OCT,2.0,Drona,Goldie Behl,"Abhishek Bachchan, Priyanka Chopra, Kay Kay Menon, Jaya Bachchan","Superhero, action, Adventure, Fantasy"
+62,OCT,10.0,Hello,Atul Agnihotri,"Sohail Khan, Sharman Joshi, Amrita Arora, Gul Panag, Isha Koppikar","Drama, Romance"
+63,OCT,17.0,Karzzzz,Satish Kaushik,"Himesh Reshammiya, Benjamin Schoefer, Urmila Matondkar, Dino Morea, Gulshan Grover","action, Romance"
+64,OCT,24.0,Heroes,Samir Karnik,"Salman Khan, Preity Zinta, Mithun Chakraborty, Bobby Deol, Sunny Deol, Sohail Khan, Vatsal Sheth, Amrita Arora, Dino Morea, Riya Sen",Drama
+65,OCT,24.0,Roadside Romeo,Jugal Hansraj,"Saif Ali Khan, Kareena Kapoor, Javed Jaffrey","Animation, Family, Romance"
+66,OCT,29.0,Golmaal Returns,Rohit Shetty,"Ajay Devgn, Kareena Kapoor, Arshad Warsi, Amrita Arora, Shreyas Talpade, Celina Jaitly, Tusshar Kapoor, Anjana Sukhani",Comedy
+67,OCT,29.0,Fashion,Madhur Bhandarkar,"Priyanka Chopra, Kangana Ranaut, Arbaaz Khan, Mugdha Godse, Arjan Bajwa, Samir Soni","Drama, Romance"
+68,NOV,7.0,EMI - Liya Hai Toh Chukana Parega,Saurabh Kabra,"Sanjay Dutt, Arjun Rampal, Urmila Matondkar, Malaika Arora, Aashish Chaudhary, Neha Oberoi, Manoj Joshi","Comedy, Social"
+69,NOV,7.0,Ek Vivaah... Aisa Bhi,Kaushik Ghatak,"Isha Koppikar, Sonu Sood, Alok Nath",Drama
+70,NOV,7.0,Dasvidaniya,Shashant Shah,"Vinay Pathak, Neha Dhupia, Rajat Kapoor, Ranvir Shorey","Comedy, Drama, Musical, Romance"
+71,NOV,14.0,Dostana,Tarun Mansukhani,"Abhishek Bachchan, John Abraham, Priyanka Chopra, Bobby Deol",Comedy
+72,NOV,14.0,Deshdrohi,Jagdish A. Sharma,"Kamaal Rashid Khan, Krishna Abhishek, Hrishitaa Bhatt, Gracy Singh, Zulfi Syed",Politics
+73,NOV,21.0,Yuvvraaj,Subhash Ghai,"Anil Kapoor, Salman Khan, Zayed Khan, Katrina Kaif, Boman Irani, Mithun Chakraborty","Musical, Drama, Romance, Family"
+74,NOV,28.0,Gumnaam – The Mystery,Neeraj Pathak,"Mahima Chaudhry, Dino Morea","Thriller, Mystery"
+75,NOV,28.0,Oye Lucky! Lucky Oye!,Dibakar Banerjee,"Abhay Deol, Neetu Chandra, Paresh Rawal, Manu Rishi, Richa Chadda, Archana Puran Singh","Comedy, Drama"
+76,NOV,28.0,Sorry Bhai!,Onir,"Shabana Azmi, Boman Irani, Sanjay Suri, Sharman Joshi, Chitrangada Singh",Romance
+77,DEC,5.0,Maharathi,Shivam Nair,"Paresh Rawal, Neha Dhupia, Boman Irani",Thriller
+78,DEC,5.0,Dil Kabaddi,Anil Sharma (Senior),"Konkona Sen Sharma, Soha Ali Khan, Irrfan Khan, Rahul Khanna, Rahul Bose,","Comedy, Romance"
+79,DEC,5.0,Meerabai Not Out,Chandrakant Kulkarni,"Mahesh Manjrekar, Mandira Bedi, Eijaz Khan, Anupam Kher",Drama
+80,DEC,5.0,"Oh, My God",Sourabh Shrivastava,"Vinay Pathak, Saurabh Shukla, Divya Dutta, Gaurav Gera, Harsh Chhaya",Comedy
+81,DEC,12.0,Rab Ne Bana Di Jodi,Aditya Chopra,"Shah Rukh Khan, Anushka Sharma",Romance
+82,DEC,19.0,Wafaa,Rakesh Sawant,"Rajesh Khanna, Laila Khan, Shahib Chopra, Diya Hayat, Tinnu Anand, Sudesh Berry","Romance, Drama, Romance"
+83,DEC,26.0,Ghajini,A. R. Murugadoss,"Aamir Khan, Asin, Jiah Khan, Pradeep Rawat","action, Drama, Mystery, Romance, Thriller"
+84,DEC,26.0,Jumbo,Kompin Kemgumnird,"Akshay Kumar, Lara Dutta, Dimple Kapadia, Rajpal Yadav, Gulshan Grover",Animation
+85,DEC,,,,,
